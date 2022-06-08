@@ -1,1 +1,2 @@
 # landing-page
+In this project, I will be creating an entire web page from a design provided by 'The Odin Project' curriculum. HTML, CSS, flexbox etc. are the main skills used for creating this web page. 
